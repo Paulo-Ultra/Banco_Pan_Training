@@ -54,7 +54,7 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 16/10/21: Aplicação CRUD com controle de horário para cadastro](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/App-spring-datas)
 
-- [Data 16/10/21: Aplicação com tratamento de CNPJ com uso de Regex e Calculos simples](https://github.com/Paulo-Ultra/Tratamento-CNPJ-REGEXeCalculos)
+- [Data 16/10/21: Aplicação com tratamento de CNPJ com uso de Regex e Calculos simples](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Tratamento-CNPJ-REGEXeCalculos-main)
 
 - [Data 18/10/21: Aplicação CRUD com controle de Horário para Cadastro e uso de Enums](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/crud)
 
