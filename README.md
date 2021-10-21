@@ -58,6 +58,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 18/10/21: Aplicação CRUD com controle de Horário para Cadastro e uso de Enums](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/crud)
 
+- [Data 19/10/21: Aplicação Operadores Matemáticos, Lógicos e Ternário](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Operadores/src/Operadores.java)
+
 
 
 
