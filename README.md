@@ -60,6 +60,11 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 19/10/21: Aplicação Operadores Matemáticos, Lógicos e Ternário](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Operadores/src/Operadores.java)
 
+- [Data 20/10/21: Hash, LinkedList, HashFor, HashForIf](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Array1)
+
+- [Data 20/10/21: Aplicação CRUD com servidor "Mockado"](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/crud-service)
+
+
 
 
 
