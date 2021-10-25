@@ -64,9 +64,9 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 20/10/21: Aplicação CRUD com servidor "Mockado"](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/crud-service)
 
-- [Data 21/10/21: Testando JUnit](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/JUnitProject)
-
 - [Data 21/10/21: Uso de Stacks, HashSet, Trees e iteração de Listas](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Pilhas)
+
+- [Data 22/10/21: Testando JUnit](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/JUnitProject)
 
 - [Data 23/10/21: First application of microservice](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Primeira%20aplica%C3%A7%C3%A3o%20Microservi%C3%A7os)
 
