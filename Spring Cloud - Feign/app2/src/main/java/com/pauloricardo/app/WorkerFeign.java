@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.pauloricardo.com.model.Usuario;
+import com.pauloricardo.app.model.Usuario;
 
 @Component
 @FeignClient(name = "servidorzinho", url="localhost:8081", path="/usuarios")

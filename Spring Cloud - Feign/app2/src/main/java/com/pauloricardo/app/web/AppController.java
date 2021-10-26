@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import com.pauloricardo.app.WorkerFeign;
-import com.pauloricardo.com.model.Usuario;
+import com.pauloricardo.app.model.Usuario;
  
 @RestController
 public class AppController {
