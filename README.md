@@ -76,6 +76,13 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 23/10/21: Usando for e while com Regex e Métodos Matcher e Pattern](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/For)
 
+- [Data 25/10/21: Microserviço com uso de Feign - Spring Cloud](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Spring%20Cloud%20-%20Feign)
+
+- [Data 25/10/21: Revisão de Poliformismo, Funções Scanner, FileReader e BufferedReader](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/InputsOutPuts)
+
+
+
+
 
 
 
