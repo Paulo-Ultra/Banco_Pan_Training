@@ -1,10 +1,10 @@
-package com.paulo.microtabela;
+package com.luizacerchiari.hrpayroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroTabelaApplicationTests {
+class HrPayrollApplicationTests {
 
 	@Test
 	void contextLoads() {

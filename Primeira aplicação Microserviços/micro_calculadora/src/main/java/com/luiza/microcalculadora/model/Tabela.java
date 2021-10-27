@@ -1,24 +1,15 @@
-package com.paulo.microtabela.model;
+package com.luiza.microcalculadora.model;
 
-import java.io.Serializable;
-import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.Table;
 
 @Entity
-@Table(name = "tb_tabelinha")
 public class Tabela {
-	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String pessoa;
-	
-	@Column(name = "preco")
 	private Double precoPorDia;
+	
 
 	public Long getId() {
 		return id;
@@ -43,6 +34,6 @@ public class Tabela {
 	public void setPrecoPorDia(Double precoPorDia) {
 		this.precoPorDia = precoPorDia;
 	}
-	
 
+	
 }

@@ -1,10 +1,9 @@
-package com.paulo.microtabela.repositories;
+package com.luiza.microtabela.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.paulo.microtabela.model.Tabela;
+import com.luiza.microtabela.model.Tabela;
 
 public interface TabelaRepository extends JpaRepository<Tabela, Long> {
 
-	
 }

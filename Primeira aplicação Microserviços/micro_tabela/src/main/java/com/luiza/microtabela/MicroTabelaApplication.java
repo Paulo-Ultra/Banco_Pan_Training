@@ -1,4 +1,4 @@
-package com.paulo.microtabela;
+package com.luiza.microtabela;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
