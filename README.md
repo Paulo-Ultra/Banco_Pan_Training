@@ -100,3 +100,11 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
 - [Data 13/10/21: exercícios herança e encapsulamento](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Banco%20Pan)
 
 ## ⚙️ Projeto Final
+
+
+
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Paulo-Ultra/count.svg" />
+ </p>
+
+</p>
