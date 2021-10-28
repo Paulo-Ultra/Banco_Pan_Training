@@ -82,9 +82,9 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 26/10/21: Configurações do pacote app2](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Spring%20Cloud%20-%20Feign)
 
-- [Data 27/10/21: Construtores(https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-construtores)
+- [Data 27/10/21: Construtores](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-construtores)
 
-- [Data 27/10/21: Debug(https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-debug)
+- [Data 27/10/21: Debug](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-debug)
 
 
 
