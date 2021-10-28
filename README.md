@@ -80,6 +80,18 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 25/10/21: Revisão de Poliformismo, Funções Scanner, FileReader e BufferedReader](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/InputsOutPuts)
 
+- [Data 26/10/21: Configurações do pacote app2](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Spring%20Cloud%20-%20Feign)
+
+- [Data 27/10/21: Construtores](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-construtores)
+
+- [Data 27/10/21: Debug](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/z-debug)
+
+
+
+
+
+
+
 
 
 
@@ -100,3 +112,11 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
 - [Data 13/10/21: exercícios herança e encapsulamento](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Banco%20Pan)
 
 ## ⚙️ Projeto Final
+
+
+
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Paulo-Ultra/count.svg" />
+ </p>
+
+</p>
