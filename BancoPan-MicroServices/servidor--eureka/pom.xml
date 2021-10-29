@@ -8,10 +8,10 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pauloricardo.eureka</groupId>
-	<artifactId>servidor-eureka</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>servidor--eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>servidor-eureka</name>
+	<name>servidor--eureka</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
