@@ -92,6 +92,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 28/10/21: Tratamento de arquivos JSON](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/json)
 
+[Data 28/10/21: Usando Zuul Gateway](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/BancoPan-MicroServices)
+
 
 
 
