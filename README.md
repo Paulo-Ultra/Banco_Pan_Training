@@ -88,6 +88,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 27/10/21: Eureka Server](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/BancoPan-MicroServices)
 
+- [Data 28/10/21: Git e GitFlow](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Git%20e%20GitFlow)
+
 
 
 
