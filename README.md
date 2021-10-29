@@ -27,7 +27,7 @@ mentorias deverão ser assistidas nos horários pré determinados. Para melhor e
 - [Imagem do cronograma e conteúdos 1](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%201.jpg)
 - [Imagem do cronograma e conteúdos 2](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%202.jpg)
 - [Imagem do cronograma e conteúdos 3](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%203.jpg)
-- - [Ementa Pan Academy](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Ementa/%5BEmenta%5D%20Pan%20Academy%20-%20Java%20e%20AWS%20(Recupera%C3%A7%C3%A3o%20Autom%C3%A1tica).pdf)
+- [Ementa Pan Academy](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Ementa/%5BEmenta%5D%20Pan%20Academy%20-%20Java%20e%20AWS%20(Recupera%C3%A7%C3%A3o%20Autom%C3%A1tica).pdf)
 
 Naya é a pessoa responsavél pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
 
