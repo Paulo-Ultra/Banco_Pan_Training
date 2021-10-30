@@ -24,9 +24,9 @@ public class ultimo {
 				jsonzinho.put("idade", 25);
 				
 				JSONObject jsonzinho2 = new JSONObject();
-				jsonzinho2.put("Nome", "Julio");
-				jsonzinho2.put("Sobrenome", "Smith");
-				jsonzinho2.put("idade", 25);
+				jsonzinho2.put("Nome", "Joao");
+				jsonzinho2.put("Sobrenome", "Adam");
+				jsonzinho2.put("idade", 27);
 				
 				
 					
@@ -42,5 +42,8 @@ public class ultimo {
 				
 				salvar.flush();
 				salvar.close();
+				
+				System.out.println(jsonzinho);
+				System.out.println(jsonzinho2);
 			}
 	}
