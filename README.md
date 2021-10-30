@@ -99,7 +99,7 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 29/10/21: Poliformismo e Sobrecarga](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/over)
 
-- [Data 29/10/21: Poliformismo e Sobrecarga](https://github.com/Paulo-Ultra/Banco_Pan_Training/commit/d8e28c66d1de658e32a6a4ef001cd432f55adceb)
+- [Data 29/10/21: Percorrer JSon File usando While](https://github.com/Paulo-Ultra/Banco_Pan_Training/commit/d8e28c66d1de658e32a6a4ef001cd432f55adceb)
 
 
 
