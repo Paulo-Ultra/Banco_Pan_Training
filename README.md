@@ -95,9 +95,9 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 28/10/21: Usando Zuul Gateway](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/BancoPan-MicroServices)
 
-- [Data 29/10/21: Usando Zuul Gateway](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Para-para-revisao-feig-main)
+- [Data 29/10/21: Revisão Feign](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Para-para-revisao-feig-main)
 
-
+- [Data 29/10/21: Poliformismo e Sobrecarga](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/over)
 
 
 
