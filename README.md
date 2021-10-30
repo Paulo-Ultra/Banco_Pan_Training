@@ -2,8 +2,7 @@
 <p align="center">
   <a href="https://bancopan.corporate.gama.academy/" target="_blank">
     <img align="center" width="300" src="https://github.com/WCL79/imagnes_diversas/blob/master/logoPan.JPG" style="max-width:100%;">
-    <p>Clique na imagem para ser redirecionado</p>
-  </a>
+     </a>
 </p>
 
 <h3 align="center">
@@ -29,9 +28,9 @@ mentorias deverão ser assistidas nos horários pré determinados. Para melhor e
 - [Imagem do cronograma e conteúdos 3](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%203.jpg)
 - [Ementa Pan Academy](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Ementa/%5BEmenta%5D%20Pan%20Academy%20-%20Java%20e%20AWS%20(Recupera%C3%A7%C3%A3o%20Autom%C3%A1tica).pdf)
 
-Naya é a pessoa responsável pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
+👩 Naya é a pessoa responsável pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
 
-Luiza Cerchiari Professora Desenvolvimento Java com conhecimento em Full Stack.
+👩‍🏫 Luiza Cerchiari Professora Desenvolvimento Java com conhecimento em Full Stack.
 
 ## ⚙️ Informações sobre o README:
 
@@ -117,11 +116,15 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 
 
+
+
 ## ⚙️ Exercícios complementares
 
 Comforme orientação da Mentora Luiza, é necessário praticar diversos exercícios para aumentar a capacidade lógica crítica; ou seja, cada resolução à solução, com o passar do tempo, o mesmo exercício poderá refaze-lo de forma diferente e mais eficiente.
 
 - [Data 13/10/21: exercícios herança e encapsulamento](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Banco%20Pan)
+
+- [Data 29/10/21: Exercício proposto: Percorrer JSon File usando While](https://github.com/Paulo-Ultra/Banco_Pan_Training/commit/d8e28c66d1de658e32a6a4ef001cd432f55adceb)
 
 ## ⚙️ Projeto Final
 
