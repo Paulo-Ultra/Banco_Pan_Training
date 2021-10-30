@@ -98,6 +98,10 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 29/10/21: Poliformismo e Sobrecarga](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/over)
 
+- [Data 30/10/21: JUnit testes](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/jUnit)
+
+
+
 
 
 
