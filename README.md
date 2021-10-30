@@ -99,7 +99,7 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 29/10/21: Poliformismo e Sobrecarga](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/over)
 
-- [Data 29/10/21: Percorrer JSon File usando While](https://github.com/Paulo-Ultra/Banco_Pan_Training/commit/d8e28c66d1de658e32a6a4ef001cd432f55adceb)
+
 
 
 
@@ -124,6 +124,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 Comforme orientação da Mentora Luiza, é necessário praticar diversos exercícios para aumentar a capacidade lógica crítica; ou seja, cada resolução à solução, com o passar do tempo, o mesmo exercício poderá refaze-lo de forma diferente e mais eficiente.
 
 - [Data 13/10/21: exercícios herança e encapsulamento](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Banco%20Pan)
+
+- [Data 29/10/21: Exercício proposto: Percorrer JSon File usando While](https://github.com/Paulo-Ultra/Banco_Pan_Training/commit/d8e28c66d1de658e32a6a4ef001cd432f55adceb)
 
 ## ⚙️ Projeto Final
 
