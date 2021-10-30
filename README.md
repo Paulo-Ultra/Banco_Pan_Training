@@ -2,8 +2,7 @@
 <p align="center">
   <a href="https://bancopan.corporate.gama.academy/" target="_blank">
     <img align="center" width="300" src="https://github.com/WCL79/imagnes_diversas/blob/master/logoPan.JPG" style="max-width:100%;">
-    <p>Clique na imagem para ser redirecionado</p>
-  </a>
+     </a>
 </p>
 
 <h3 align="center">
@@ -31,7 +30,7 @@ mentorias deverão ser assistidas nos horários pré determinados. Para melhor e
 
 👩 Naya é a pessoa responsável pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
 
-👩‍🏫: Luiza Cerchiari Professora Desenvolvimento Java com conhecimento em Full Stack.
+👩‍🏫 Luiza Cerchiari Professora Desenvolvimento Java com conhecimento em Full Stack.
 
 ## ⚙️ Informações sobre o README:
 
