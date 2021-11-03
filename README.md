@@ -106,6 +106,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 01/11/21: Conexão AWS](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Conexao)
 
+- [Data 01/11/21: AWS Lambda para conexão com o database](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/2AppLambda2)
+
 
 
 
