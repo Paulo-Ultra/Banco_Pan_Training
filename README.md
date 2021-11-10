@@ -108,6 +108,8 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 01/11/21: AWS Lambda para conexão com o database](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/2AppLambda2)
 
+- [Data 06/11/21: Api SpringBoot com uso de Docker para visualização do Banco de Dados](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/api-spring-docker)
+
 
 
 
@@ -146,7 +148,7 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
 
 ## ⚙️ Projeto Final
 
-
+- [Data 09/11/21: Início do Projeto... {em andamento..}](https://github.com/ramondomiingos/pan-academy-blue-bank)
 
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Paulo-Ultra/count.svg" />
