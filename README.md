@@ -148,7 +148,7 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
 
 ## ⚙️ Projeto Final
 
-
+- [Data 09/11/21: Início do Projeto... {em andamento..}](https://github.com/ramondomiingos/pan-academy-blue-bank)
 
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Paulo-Ultra/count.svg" />
