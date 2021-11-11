@@ -110,7 +110,7 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 06/11/21: Api SpringBoot com uso de Docker para visualização do Banco de Dados](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/api-spring-docker)
 
-- [Data 06/11/21: Aplicação Crud com Security](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/security-jpa)
+- [Data 10/11/21: Aplicação Crud com Security](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/security-jpa)
 
 
 
