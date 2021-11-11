@@ -20,8 +20,7 @@ PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO À ESPECIALIZAÇÃO EM <i>CLOUD</i> COM
 ## :hourglass: Cronograma e  Staff:woman_teacher:
 
 
-O programa foi elaborado uma tabela com cerca de 390 horas cujo conteúdo e estruturado em 10 semanas de treinamento. As aulas serão gravadas e também ao vivo, porém as aulas e
-mentorias deverão ser assistidas nos horários pré determinados. Para melhor entendimento a imagem simplifica:
+O programa foi elaborado com um cronograma de cerca de 390 horas cujo conteúdo é estruturado em 10 semanas de treinamento. Segue cronograma e ementa do Programa:
 
 - [Imagem do cronograma e conteúdos 1](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%201.jpg)
 - [Imagem do cronograma e conteúdos 2](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Cronograma/Cronograma%20Parte%202.jpg)
@@ -30,7 +29,7 @@ mentorias deverão ser assistidas nos horários pré determinados. Para melhor e
 
 👩 Naya é a pessoa responsável pela organização entre as Mentoras a Gama juntamente com o Banco Pan.
 
-👩‍🏫 Luiza Cerchiari Professora Desenvolvimento Java com conhecimento em Full Stack.
+👩‍🏫 [Marianne Salomão Professora Desenvolvimento Java](https://github.com/mariannesalomao)
 
 ## ⚙️ Informações sobre o README:
 
