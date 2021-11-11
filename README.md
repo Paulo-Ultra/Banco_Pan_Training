@@ -149,7 +149,7 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
 ## ⚙️ Projeto Final
 
 - [Informações do Desafio](https://github.com/Paulo-Ultra/Banco_Pan_Training/blob/main/Desafio%20final%20-%20BlueBank.docx.pdf)
-- 
+ 
 - [Data 09/11/21: Início do Projeto... {em andamento..}](https://github.com/ramondomiingos/pan-academy-blue-bank)
 
 <p align="center"> 
