@@ -7,6 +7,7 @@ pipeline {
             sh '''
                 echo "Our first pipeline"
                 '''
+				ls -la
         }
     }
 
