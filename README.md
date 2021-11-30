@@ -111,7 +111,11 @@ A cada aula conforme o Cronograma, exercícios serão aplicados em sala virtual 
 
 - [Data 10/11/21: Aplicação Crud com Security](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/security-jpa)
 
-
+- [Data 27/11/21: Usando AWS SNS com confirmação por e-mail](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/awssns)
+ 
+- [Data 29/11/21: Aplicação para uso de AWS Elastic Beanstalk e AWS API Gateway](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/gatewayAWSBeanStalk)
+ 
+- [Data 29/11/21: Aplicação de Teste Simples com uso de String](https://github.com/Paulo-Ultra/Banco_Pan_Training/tree/main/Tests)
 
 
 
