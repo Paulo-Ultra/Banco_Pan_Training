@@ -157,6 +157,8 @@ Comforme orientação da Mentora Luiza, é necessário praticar diversos exercí
  
 - [Data 09/11/21: Início do Projeto... {Finalizado}](https://github.com/ramondomiingos/pan-academy-blue-bank)
 
+<a href="https://wakatime.com/badge/user/9948901c-c2f5-49ab-8de8-1b24cceeb120/project/a694ec02-6eb4-4083-8026-fbfb44c896bb"><img src="https://wakatime.com/badge/user/9948901c-c2f5-49ab-8de8-1b24cceeb120/project/a694ec02-6eb4-4083-8026-fbfb44c896bb.svg" alt="wakatime"></a>
+
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Paulo-Ultra/count.svg" />
  </p>
